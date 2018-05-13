@@ -1,0 +1,18 @@
+# Runtimes
+*.py[co]
+__cache__
+__pycache__
+
+# Packages
+*.egg
+*.egg-info
+dist
+
+
+
+*.log
+*.lock
+
+# Local Environment
+venv*
+node_modules
